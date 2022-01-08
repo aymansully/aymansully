@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aymansully!
-- 👀 I’m interested in a lot of things
+- 👀 I’m interested in how things work!
 - 🌱 I’m currently learning SAP
 - I don't use GitHub enough unfortuately
 
