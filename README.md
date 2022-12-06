@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aymansully!
-- 👀 I’m interested in how things work!
-- 🌱 I’m currently learning SAP
-- I don't use GitHub enough unfortuately
+- 👋 Hi, I’m @aymansully
+- 👀 I’m interested in how things work
+- 🌱 I’m currently learning SAP and Cloud
 
 <!---
 aymansully/aymansully is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
